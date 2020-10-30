@@ -1,2 +1,2 @@
-# class-21
-collison of different game objects
+# collisionAlgorithm
+Algorithm to detect collision between two objects
